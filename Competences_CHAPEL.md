@@ -35,8 +35,8 @@ ces derniers et de les manipuler
 | Containers      |             | |  Analyser les informations obtenues     |  Maîtriser |  
 | Comprendre le fonctionnement d'un container et sa connexion réseau       |             | | Mettre en réseau une VM de différentes façons      |  Maîtriser |  
 | Comprendre les commandes "cg"      |             | | Comprendre l’architecture d’une solution de virtualisation     | Maîtriser  |  
-|       |             | | Utiliser la libvirt au travers du shell virsh     | Maîtriser  |  
-|       |             | | Migrer une VM d’un nœud KVM à un autre en utilisant un espace de stockage NFS      |  Newbies |  
+| Comrpednre l'architecture d'une solution de containérisaton      |             | | Utiliser la libvirt au travers du shell virsh     | Maîtriser  |  
+| Containers docker      |             | | Migrer une VM d’un nœud KVM à un autre en utilisant un espace de stockage NFS      |  Newbies |  
 |       |             | | Comprendre l’utilisation des commandes LXC     | Maîtriser  |  
 |       |             | | Créer des containers LXC Debian et Centos    | Maîtriser  |  
 |       |             | | Manipuler des containers     |  Maîtriser |  
@@ -45,7 +45,11 @@ ces derniers et de les manipuler
 |       |             | | Créer et manipuler des containers LXD      | Maîtriser  |  
 |       |             | | Créer un namespace      | Maîtriser  |  
 |       |             | | Utiliser les netns      |  Newbies |  
-|       |             | | Créer un container système      |  Newbies |  
+|       |             | | Construire une image Docker   | Maîtriser |  
+|       |             | | Manipuler les images et containers Docker   | Maîtriser |  
+|       |             | | Mettre en réseau un container Docker de différentes façons   | Maîtriser |  
+|       |             | | Sécuriser un container  | Newbies |  
+|       |             | | Clusteriser des containers  | Newbies |  
 
 ## Compétences Reporting
 

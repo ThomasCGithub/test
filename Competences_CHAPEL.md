@@ -274,6 +274,19 @@ ces derniers et de les manipuler
 | Certification       |             | | Réaliser un diaporama sur un sujet technique       | Maîtriser      |  
 
 
+## Compétences AD
+
+- Compétence chapeau : mettre en place un Active Directory
+
+| SAVOIR | SAVOIR ETRE |-| SAVOIR FAIRE | NIVEAU |
+| ------ | ----------- |-| ------ | ----- |
+| AD     |             | | Mettre en place un AD | Maîtriser|
+| GPO    |             | | Mettre en place des droits pour les utilisateurs | Maîtriser |  
+| Permissions |             | | Mettre en place des GPO | Maîtriser      |  
+
+
+
+
 ## Templates
 
 ## Compétences XXX

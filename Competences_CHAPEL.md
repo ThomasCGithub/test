@@ -383,13 +383,89 @@ ces derniers et de les manipuler
 | OSPF   |             | | Mettre en place un routage dynamique OSPF avec des équipements cisco | Maîtriser |
 | BGP    |             | | Mettre en place un routage dynamique BGP avec des équipements cisco | Maîtriser |
 
-## Compétences CON
+## Compétences SSO-CAS
+
+- Compétence chapeau : Mettre en place un serveur CAS et le tester
+
+| SAVOIR | SAVOIR ETRE |-| SAVOIR FAIRE | NIVEAU |
+| ------ | ----------- |-| ------ | ----- |
+| CAS    |             | | Mettre en place un serveur CAS | Maîtriser | 
+| TOMCAT |             | | Utiliser TOMCAT comme conteneur de servlets externe | Maîtriser | 
+|        |             | | Utiliser l'authentification CAS en PHP | Maîtriser | 
+|        |             | | Paramétrer un système d'authentification | Maîtriser | 
+
+## Compétences PGP
+
+- Compétence chapeau : Etre capable de chiffrer des données avec le protocole PGP
+
+| SAVOIR | SAVOIR ETRE |-| SAVOIR FAIRE | NIVEAU |
+| ------ | ----------- |-| ------ | ----- |
+| PGP    |             | | Utiliser PGP | Maîtriser | 
+| GPGSM  |             | | Chiffrer & Déchiffrer à l'aide du protocole PGP | Maîtriser | 
+|        |             | | Créer et éditer des clés PGP | Maîtriser | 
+|        |             | | Utiliser et manier des clés PGP | Maîtriser | 
+|        |             | | Utiliser GPGSM | Maîtriser | 
+|        |             | | Créer un fichier de confiance | Maîtriser |
+|        |             | | Créer et utiliser des certificats | Maîtriser | 
+|        |             | | Réaliser et vérifier des signatures | Maîtriser | 
+
+
+## Compétences MAIL
 
 - Compétence chapeau : XXXXX
 
 | SAVOIR | SAVOIR ETRE |-| SAVOIR FAIRE | NIVEAU |
 | ------ | ----------- |-| ------ | ----- |
-|        |             | |        |       |  
+|        |             | |        |       | 
+
+## Compétences SSH
+
+- Compétence chapeau : XXXXX
+
+| SAVOIR | SAVOIR ETRE |-| SAVOIR FAIRE | NIVEAU |
+| ------ | ----------- |-| ------ | ----- |
+|        |             | |        |       | 
+
+## Compétences TUN
+
+- Compétence chapeau : XXXXX
+
+| SAVOIR | SAVOIR ETRE |-| SAVOIR FAIRE | NIVEAU |
+| ------ | ----------- |-| ------ | ----- |
+|        |             | |        |       | 
+
+## Compétences MGT
+
+- Compétence chapeau : XXXXX
+
+| SAVOIR | SAVOIR ETRE |-| SAVOIR FAIRE | NIVEAU |
+| ------ | ----------- |-| ------ | ----- |
+|        |             | |        |       | 
+
+## Compétences SEC
+
+- Compétence chapeau : XXXXX
+
+| SAVOIR | SAVOIR ETRE |-| SAVOIR FAIRE | NIVEAU |
+| ------ | ----------- |-| ------ | ----- |
+|        |             | |        |       | 
+
+## Compétences FWP
+
+- Compétence chapeau : XXXXX
+
+| SAVOIR | SAVOIR ETRE |-| SAVOIR FAIRE | NIVEAU |
+| ------ | ----------- |-| ------ | ----- |
+|        |             | |        |       | 
+
+## Compétences K8S
+
+- Compétence chapeau : XXXXX
+
+| SAVOIR | SAVOIR ETRE |-| SAVOIR FAIRE | NIVEAU |
+| ------ | ----------- |-| ------ | ----- |
+|        |             | |        |       | 
+
 
 ## Templates
 

@@ -282,10 +282,20 @@ ces derniers et de les manipuler
 | ------ | ----------- |-| ------ | ----- |
 | AD     |             | | Mettre en place un AD | Maîtriser|
 | GPO    |             | | Mettre en place des droits pour les utilisateurs | Maîtriser |  
-| Permissions |             | | Mettre en place des GPO | Maîtriser      |  
+| Permissions |        | | Mettre en place des GPO | Maîtriser      |  
 
+## Compétences LDAP
 
+- Compétence chapeau : mettre en place un annuaire LDAP
 
+| SAVOIR | SAVOIR ETRE |-| SAVOIR FAIRE | NIVEAU |
+| ------ | ----------- |-| ------ | ----- |
+| LDAP       |             | | Installer les paquets nécessaire |  Expert     |
+| Annuaire   |             | | Créer une OU | Expert      |  
+| Unité Organisationnelle  | | | Créer un script pour automatiser l'importation des fichiers | Maîtriser |  
+| Objets     |             | | Réaliser des recherches à l'aide de requêtes       |  Maîtriser     |  
+| Requêtes   |             | | Modifier le DIT | Maîtriser      |  
+| DIT |             | | Réaliser des groupes dynamiques | Maîtriser      |  
 
 ## Templates
 

@@ -129,9 +129,10 @@ ces derniers et de les manipuler
 | Clé symétriques / asymétriques       |             | |        |       |  
 | Vocabulaire de la cryptographie       |             | |        |       | 
 
-## Compétences DNS
+## Compétences DNS et ADNS
 
 - Compétence chapeau : comprendre et utiliser les serveurs d'adresses 
+- Compétence secondaire : Mettre en place un serveur DNS et des mises à jours dynamiques
 
 | SAVOIR | SAVOIR ETRE |-| SAVOIR FAIRE | NIVEAU |
 | ------ | ----------- |-| ------ | ----- |
@@ -140,7 +141,7 @@ ces derniers et de les manipuler
 |  Serveur récursif      |    Patient         | | Synthétiser les résultats       |  Maîtriser     |   
 |  Serveur autoritaire      |   Attentif          | |  Configurer et utiliser un serveur récursif      |  Maîtriser     |   
 |  Les différents types de RR      |             | | Configurer et utiliser un serveur autoritaire      |  Maîtriser     |  
-|  SOA      |             | |        |       |   
+|  SOA      |             | | Réaliser des mises à jours dynamiques | Maîtriser |   
 |  Types de serveurs      |             | |        |       |   
 
 ## Compétences FWL
@@ -325,7 +326,7 @@ ces derniers et de les manipuler
 
 ## Compétences COL
 
-- Compétence chapeau : XXXXX
+- Compétence chapeau : Collecter les logs
 
 | SAVOIR | SAVOIR ETRE |-| SAVOIR FAIRE | NIVEAU |
 | ------ | ----------- |-| ------ | ----- |
@@ -335,7 +336,54 @@ ces derniers et de les manipuler
 |        |             | | Centraliser les logs avec GRAYLOG | Maîtriser |  
 
 
-## Compétences XXX
+## Compétences WEB
+
+- Compétence chapeau : Etre capable de mettre en place et d'administrer un serveur WEB
+
+| SAVOIR | SAVOIR ETRE |-| SAVOIR FAIRE | NIVEAU |
+| ------ | ----------- |-| ------ | ----- |
+| Apache |             | | Installer apache | Expert |  
+| Virtual Host |             | | Configurer apache   |  Expert  |  
+| Chiffrement  |             | | Protéger un site par un mot de passe | Maîtriser |
+| CMS |             | | Mettre en place des Virtual Host  |  Maîtriser |
+| Rewrite rules |             | | Chiffrer les données    | Maîtriser  |  
+| Obscurantisme |             | | Utiliser le PHP  | Maîtriser  |
+| Cache web     |             | | Installer un CMS       | Newbies |  
+|        |             | | Mettre en place un cache      | Newbies |  
+|        |             | | Mettre en place une infrastructure complète  | Newbies  |  
+
+## Compétences EQU
+
+- Compétence chapeau : Etre capable de créer deux architectures et équilibrer / manipuler des fluxs entre elles
+
+| SAVOIR | SAVOIR ETRE |-| SAVOIR FAIRE | NIVEAU |
+| ------ | ----------- |-| ------ | ----- |
+| Linux Virtual Server | | | Construire des architectures d'équilibrage de charges | Newbies |
+| Equilibrage de charges | | | Equilibrer et manipuler des fluxs http | Newbies |  
+
+## Compétences DPL
+
+- Compétence chapeau : Mettre en place des outils de déploiements
+
+| SAVOIR | SAVOIR ETRE |-| SAVOIR FAIRE | NIVEAU |
+| ------ | ----------- |-| ------ | ----- |
+|  Boot CD  |             | | Mettre en place un boot CD  | Maîtriser |
+|  PXE      |             | | Configurer des fichiers de configurations pour différents paramètres | Maîtriser |  
+|  memtest86 |            | | Construire un CD d'installation | Maîtriser |  
+|  Buster    |            | | Automatiser le fichier et proposer différents types d'installation  | Maîtriser |  
+|  Config preseed  |      | | Automatiser l'installation d'applications sur windows | Maîtriser |  
+
+## Compétences RDYN
+
+- Compétence chapeau : Mettre en place différents types de routage dynamique  
+
+| SAVOIR | SAVOIR ETRE |-| SAVOIR FAIRE | NIVEAU |
+| ------ | ----------- |-| ------ | ----- |
+| RIP    |             | | Mettre en place un routage dynamique RIP avec des équipements cisco | Maîtriser | 
+| OSPF   |             | | Mettre en place un routage dynamique OSPF avec des équipements cisco | Maîtriser |
+| BGP    |             | | Mettre en place un routage dynamique BGP avec des équipements cisco | Maîtriser |
+
+## Compétences CON
 
 - Compétence chapeau : XXXXX
 

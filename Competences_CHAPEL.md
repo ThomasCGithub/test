@@ -311,15 +311,29 @@ ces derniers et de les manipuler
 |        |             | | Utiliser python pour piloter des équipements réseaux  | Maîtriser |
 |        |             | | Utiliser LATEX | Maîtriser      |  
 |        |             | | Utiliser Leaflet | Maîtriser      |  
-|        |             | | Mettre en oeuvre des statisques à l'aide de python | Maîtriser      |  
+|        |             | | Mettre en oeuvre des statisques à l'aide de python | Maîtriser |  
 
-## Compétences XXX
+## Compétences OCH
+
+- Compétence chapeau : Etre capable d'orchestrer des équipements réseaux à l'aide d'Ansible
+
+| SAVOIR | SAVOIR ETRE |-| SAVOIR FAIRE | NIVEAU |
+| ------ | ----------- |-| ------ | ----- |
+| Orchestration |             | | Installer et paramétrer Ansible | Maîtriser |  
+| Ansible       |             | | Créer et utiliser un playbook   | Maîtriser | 
+| Pilotage      |             | | Orchestrer des équipements réseaux  | Maîtriser |
+
+## Compétences COL
 
 - Compétence chapeau : XXXXX
 
 | SAVOIR | SAVOIR ETRE |-| SAVOIR FAIRE | NIVEAU |
 | ------ | ----------- |-| ------ | ----- |
-|        |             | |        |       |  
+| Outils ELK |             | | Comprendre & utiliser les outils ELK | Maîtriser      |  
+| Rsyslog |             | | Analyser les logs avec ELK | Maîtriser       |  
+| Graylog |             | | Installer GRAYLOG | Maîtriser  |  
+|        |             | | Centraliser les logs avec GRAYLOG | Maîtriser |  
+
 
 ## Compétences XXX
 

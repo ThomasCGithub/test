@@ -297,6 +297,38 @@ ces derniers et de les manipuler
 | Requêtes   |             | | Modifier le DIT | Maîtriser      |  
 | DIT |             | | Réaliser des groupes dynamiques | Maîtriser      |  
 
+## Compétences Python & LAT
+
+- Compétence chapeau : Comprendre et utiliser le langage python dans l'administration réseau et la sécurité
+- Compétence secondaire : Créer un rapport en LATEX
+
+| SAVOIR | SAVOIR ETRE |-| SAVOIR FAIRE | NIVEAU |
+| ------ | ----------- |-| ------ | ----- |
+| Python | Patient     | | Réaliser des simples programmes en python | Maîtriser |  
+| LATEX  | Autonome    | | Réaliser des programmes complexes | Maîtriser | 
+|        |             | | Interroger le DNS à l'aide de python | Maîtriser | 
+|        |             | | Gérer l'adressage réseaux à l'aide de python  | Maîtriser | 
+|        |             | | Utiliser python pour piloter des équipements réseaux  | Maîtriser |
+|        |             | | Utiliser LATEX | Maîtriser      |  
+|        |             | | Utiliser Leaflet | Maîtriser      |  
+|        |             | | Mettre en oeuvre des statisques à l'aide de python | Maîtriser      |  
+
+## Compétences XXX
+
+- Compétence chapeau : XXXXX
+
+| SAVOIR | SAVOIR ETRE |-| SAVOIR FAIRE | NIVEAU |
+| ------ | ----------- |-| ------ | ----- |
+|        |             | |        |       |  
+
+## Compétences XXX
+
+- Compétence chapeau : XXXXX
+
+| SAVOIR | SAVOIR ETRE |-| SAVOIR FAIRE | NIVEAU |
+| ------ | ----------- |-| ------ | ----- |
+|        |             | |        |       |  
+
 ## Templates
 
 ## Compétences XXX

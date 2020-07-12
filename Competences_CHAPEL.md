@@ -242,7 +242,7 @@ ces derniers et de les manipuler
 
 ## Compétences WLAN
 
-- Compétence chapeau : Utiliser VIM
+- Compétence chapeau : Utiliser le réseau WLAN
 
 | SAVOIR | SAVOIR ETRE |-| SAVOIR FAIRE | NIVEAU |
 | ------ | ----------- |-| ------ | ----- |

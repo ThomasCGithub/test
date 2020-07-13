@@ -483,19 +483,6 @@ ces derniers et de les manipuler
 | Pare-feu |             | |        |       |
 | Certification |             | |        |       |
 
-## Compétences K8S
-
-- Compétence chapeau : XXXXX
-
-| SAVOIR | SAVOIR ETRE |-| SAVOIR FAIRE | NIVEAU |
-| ------ | ----------- |-| ------ | ----- |
-|        |             | |        |       |
-|        |             | |        |       |
-|        |             | |        |       |
-|        |             | |        |       |
-|        |             | |        |       |
-|        |             | |        |       |
-
 ## Compétences Projet
 
 - Compétence chapeau : Mettre en pratique les différentes connaissances que nous avons apprit en cours et y rajouter de la rigueur personnelle

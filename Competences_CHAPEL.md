@@ -502,7 +502,14 @@ ces derniers et de les manipuler
 
 | SAVOIR | SAVOIR ETRE |-| SAVOIR FAIRE | NIVEAU |
 | ------ | ----------- |-| ------ | ----- |
-|        |             | |        |       |  
+| Wi-Fi  | Autonomie   | | Réaliser un cahier des charges | Maîtriser |  
+| Sécurité | Patience    | | Réaliser des comptes rendus, des rapports, des mails et des diaporamas | Maîtriser |
+| Radius | Sérieux     | | Réaliser des réunions | Maîtriser |
+| VLAN   | Débrouillard | | Réaliser des recherches pour les équipements | Maîtriser  |
+| Configuration  | Concis | | Réaliser une étude de lieu | Maîtriser |
+|        |             | |  Installer des bornes Wi-Fi  | Maîtriser |
+|        |             | | Configurer des switchs et des bornes | Maîtriser |
+|        |             | | Mettre en place un serveur radius et un portail captif  |  ??? |
 
 ## Templates
 

@@ -454,11 +454,21 @@ ces derniers et de les manipuler
 
 ## Compétences SEC
 
-- Compétence chapeau : XXXXX
+- Compétence chapeau : Etre capable de réaliser une étude de risques
 
 | SAVOIR | SAVOIR ETRE |-| SAVOIR FAIRE | NIVEAU |
 | ------ | ----------- |-| ------ | ----- |
-|  |             | |        |       | 
+| Risque  |             | | Analyser un risque simple |  Maîtriser | 
+| Analyse |             | | Classer des biens essentiels & supports |  Maîtriser | 
+| Gestion |             | | Réaliser une étude de risques simple | Maîtriser | 
+| Bien essentiel |             | | Réaliser une étude de risques complexe  | Maîtriser | 
+| Bien support |             | |        |       | 
+| Vulnérabilité |             | |        |       | 
+| Menace |             | |        |       | 
+| Scénario |             | |        |       |
+| Mesure   |             | |        |       | 
+| Contexte |             | |        |       | 
+| Evènement redouté |             | |        |       | 
 
 ## Compétences FWP
 

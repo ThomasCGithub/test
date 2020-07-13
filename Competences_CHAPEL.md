@@ -411,11 +411,21 @@ ces derniers et de les manipuler
 
 ## Compétences MAIL
 
-- Compétence chapeau : XXXXX
+- Compétence chapeau : Mettre en place une architecture proche d'une "prod messagerie" et mettre en place différents outils antispam et un antivirus
 
 | SAVOIR | SAVOIR ETRE |-| SAVOIR FAIRE | NIVEAU |
 | ------ | ----------- |-| ------ | ----- |
-|        |             | |        |       | 
+| Postfix |             | | Mettre en place une configuration basique de messagerie | Expert |
+| MTA |             | | Installer et utiliser Postfix | Maîtriser | 
+| Mailbox |             | | Vérifier le bon fonctionnement du MTA Postfix via le CLI | Maîtriser | 
+| Mail |             | | Envoyer un mel avec la commande mail & sendmail | Maîtriser | 
+| Sendmail |             | | Router la messagerie | Maîtriser | 
+| Antispam |             | | Mettre en place un antispam de premier niveau | Newbies | 
+| Spams |             | | Utiliser Postscreen comme antispam | Newbies |
+| Postscreen |             | | Utiliser des regex afin de filtrer des mails | Newbies | 
+| Regex |             | | Mettre en place une authentification sécurisée | Newbies |
+| Dovecot |             | | Utiliser RSPAMD comme antipsam | Newbies | 
+| RSPAMD |             | | Mettre en place un serveur LDAP pour filter les spams | Newbies | 
 
 ## Compétences SSH
 

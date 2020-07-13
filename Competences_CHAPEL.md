@@ -474,8 +474,15 @@ ces derniers et de les manipuler
 
 | SAVOIR | SAVOIR ETRE |-| SAVOIR FAIRE | NIVEAU |
 | ------ | ----------- |-| ------ | ----- |
-|        |             | |        |       | 
+|        |             | |        |       |
 
+## Compétences Projet
+
+- Compétence chapeau : Mettre en pratique les différentes connaissances que nous avons apprit en cours et y rajouter de la rigueur personnelle
+
+| SAVOIR | SAVOIR ETRE |-| SAVOIR FAIRE | NIVEAU |
+| ------ | ----------- |-| ------ | ----- |
+|        |             | |        |       |  
 
 ## Templates
 

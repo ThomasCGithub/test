@@ -409,7 +409,6 @@ ces derniers et de les manipuler
 |        |             | | Créer et utiliser des certificats | Maîtriser | 
 |        |             | | Réaliser et vérifier des signatures | Maîtriser | 
 
-
 ## Compétences MAIL
 
 - Compétence chapeau : XXXXX
@@ -420,21 +419,15 @@ ces derniers et de les manipuler
 
 ## Compétences SSH
 
-- Compétence chapeau : XXXXX
+- Compétence chapeau : Utiliser le protocole SSH pour réaliser différentes manipulations
 
 | SAVOIR | SAVOIR ETRE |-| SAVOIR FAIRE | NIVEAU |
 | ------ | ----------- |-| ------ | ----- |
-|        |             | |        |       | 
+| SSH |             | | Réaliser des simples transferts de fichiers | Expert | 
+|        |             | | Réaliser des transferts de fichiers un peu plus complexe | Expert | 
+|        |             | | Réaliser du tunneling / translation de ports à l'aide du protocole SSH |       | 
 
 ## Compétences TUN
-
-- Compétence chapeau : XXXXX
-
-| SAVOIR | SAVOIR ETRE |-| SAVOIR FAIRE | NIVEAU |
-| ------ | ----------- |-| ------ | ----- |
-|        |             | |        |       | 
-
-## Compétences MGT
 
 - Compétence chapeau : XXXXX
 

@@ -425,15 +425,22 @@ ces derniers et de les manipuler
 | ------ | ----------- |-| ------ | ----- |
 | SSH |             | | Réaliser des simples transferts de fichiers | Expert | 
 |        |             | | Réaliser des transferts de fichiers un peu plus complexe | Expert | 
-|        |             | | Réaliser du tunneling / translation de ports à l'aide du protocole SSH |       | 
+|        |             | | Réaliser du tunneling / translation de ports à l'aide du protocole SSH | Maîtriser | 
 
 ## Compétences TUN
 
-- Compétence chapeau : XXXXX
+- Compétence chapeau : Mettre en place différents types de tunnel
 
 | SAVOIR | SAVOIR ETRE |-| SAVOIR FAIRE | NIVEAU |
 | ------ | ----------- |-| ------ | ----- |
-|        |             | |        |       | 
+| Tunnel |             | | Mettre en place un tunnel IPIP | Maîtriser | 
+| IPIP   |             | | Mettre en place un tunnel GRE | Maîtriser |
+| GRE    |             | | Monter un VPN OpenVPN | Maîtriser |
+| OpenVPN |             | | Réaliser différents types de configurations avec OpenVPN | Newbies |
+| TOR    |             | | Mettre en place un tunnel TOR | Newbies |
+| SSH over HTTP |             | | Mettre en place un tunnel SSH over HTTP | Newbies |
+| IP over DNS |             | | Mettre en place un tunnel IP overs DNS | Newbies |
+| PKI |             | | Mettre en place une PKI pour une installation OpenVPN | Newbies |
 
 ## Compétences SEC
 
@@ -441,7 +448,7 @@ ces derniers et de les manipuler
 
 | SAVOIR | SAVOIR ETRE |-| SAVOIR FAIRE | NIVEAU |
 | ------ | ----------- |-| ------ | ----- |
-|        |             | |        |       | 
+|  |             | |        |       | 
 
 ## Compétences FWP
 

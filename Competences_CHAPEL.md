@@ -472,11 +472,16 @@ ces derniers et de les manipuler
 
 ## Compétences FWP
 
-- Compétence chapeau : XXXXX
+- Compétence chapeau : Etre capable de comprendre comment fonctionne un pare-feu stormshield
 
 | SAVOIR | SAVOIR ETRE |-| SAVOIR FAIRE | NIVEAU |
 | ------ | ----------- |-| ------ | ----- |
-|        |             | |        |       | 
+| Stormshield |             | | Réaliser les différents LABS |  Maîtriser | 
+| Règles |             | | Acquérir la certification Stormshield | Newbies |
+| Filtrage |             | |        |       |
+| VPN |             | |        |       |
+| Pare-feu |             | |        |       |
+| Certification |             | |        |       |
 
 ## Compétences K8S
 
@@ -484,6 +489,11 @@ ces derniers et de les manipuler
 
 | SAVOIR | SAVOIR ETRE |-| SAVOIR FAIRE | NIVEAU |
 | ------ | ----------- |-| ------ | ----- |
+|        |             | |        |       |
+|        |             | |        |       |
+|        |             | |        |       |
+|        |             | |        |       |
+|        |             | |        |       |
 |        |             | |        |       |
 
 ## Compétences Projet

@@ -504,18 +504,15 @@ ces derniers et de les manipuler
 
 | SAVOIR | SAVOIR ETRE |-| SAVOIR FAIRE | NIVEAU |
 | ------ | ----------- |-| ------ | ----- |
-|        | Autonomie   | |        |       | 
-|        | Patience    | |        |       |  
-|        | Rigueur     | |        |       |  
-|        | Sérieux     | |        |       |  
-|        | Curiosité   | |        |       |  
-|        | Adaptable   | |        |       |  
-|        | Disponible  | |        |       |  
-|        |             | |        |       |  
-|        |             | |        |       |  
-|        |             | |        |       |  
-|        |             | |        |       |  
-|        |             | |        |       |  
+| Marché | Autonomie   | | Réaliser une étude de marché | Maîtriser | 
+| Stormshield | Patience  | | Mettre en place un réseau Wi-Fi sécurisé | Maîtriser |  
+| Fibre optique | Rigueur | | Réussir à gérer une gestion de crise (COVID) | Maîtriser |  
+| Active Directory | Sérieux | | Réaliser les interventions basiques d'un technicien | Expert |  
+| VPN | Curiosité   | | Gérer un stormshield | Maîtriser |  
+| Web | Adaptable   | | Réaliser une étude de lieu | Maîtriser |  
+|     | Disponible  | | Gérer un Active Directory | Expert |  
+|     |             | | Mettre en place un VPN | Expert |  
+|     |             | | Créer un site internet | Maîtriser |  
 
 ## Templates
 

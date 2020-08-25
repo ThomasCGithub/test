@@ -496,7 +496,26 @@ ces derniers et de les manipuler
 | Configuration  | Concis | | Réaliser une étude de lieu | Maîtriser |
 |        |             | |  Installer des bornes Wi-Fi  | Maîtriser |
 |        |             | | Configurer des switchs et des bornes | Maîtriser |
-|        |             | | Mettre en place un serveur radius et un portail captif  |  ??? |
+|        |             | | Mettre en place un serveur radius et un portail captif  |  Newbies |
+
+## Compétences Activités Professionnelles 
+
+- Compétence chapeau : Mettre en pratique les différentes connaissances que nous avons apprit en cours et y rajouter de la rigueur personnelle
+
+| SAVOIR | SAVOIR ETRE |-| SAVOIR FAIRE | NIVEAU |
+| ------ | ----------- |-| ------ | ----- |
+|        | Autonomie   | |        |       | 
+|        | Patience    | |        |       |  
+|        | Rigueur     | |        |       |  
+|        | Sérieux     | |        |       |  
+|        | Curiosité   | |        |       |  
+|        | Adaptable   | |        |       |  
+|        | Disponible  | |        |       |  
+|        |             | |        |       |  
+|        |             | |        |       |  
+|        |             | |        |       |  
+|        |             | |        |       |  
+|        |             | |        |       |  
 
 ## Templates
 
